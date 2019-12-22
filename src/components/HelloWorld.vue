@@ -1,6 +1,8 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
+  <div class="hello" >
+    <h1 style="font-family: 'Noto-Sans-SC';">{{ msg }}测试汉字的效果-普通</h1>
+    <h1 style="font-family: 'Noto-Sans-SC-Thin';">{{ msg }}测试汉字的效果-瘦</h1>
+    <h1 style="font-family: 'Noto-Sans-SC-Light';">{{ msg }}测试汉字的效果-轻量</h1>
     <h2>Essential Links</h2>
     <ul>
       <li>

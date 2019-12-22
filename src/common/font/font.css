@@ -4,3 +4,27 @@
 	font-weight: normal;
 	font-style: normal;
 }
+@font-face {
+	font-family: 'Noto-Sans-SC-bold';
+	src: url('Noto-Sans-SC-Bold-2.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Noto-Sans-SC-Light';
+	src: url('NotoSansSCLight-3.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Noto-Sans-SC-Medium';
+	src: url('NotoSansSCMedium-4.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Noto-Sans-SC-Thin';
+	src: url('NotoSansSCThin-5.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
